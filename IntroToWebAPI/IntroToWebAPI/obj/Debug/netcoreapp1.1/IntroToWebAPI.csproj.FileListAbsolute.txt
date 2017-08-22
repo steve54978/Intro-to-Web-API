@@ -1,0 +1,9 @@
+c:\users\ej54mjh\documents\visual studio 2017\Projects\IntroToWebAPI\IntroToWebAPI\bin\Debug\netcoreapp1.1\IntroToWebAPI.deps.json
+c:\users\ej54mjh\documents\visual studio 2017\Projects\IntroToWebAPI\IntroToWebAPI\bin\Debug\netcoreapp1.1\IntroToWebAPI.runtimeconfig.json
+c:\users\ej54mjh\documents\visual studio 2017\Projects\IntroToWebAPI\IntroToWebAPI\bin\Debug\netcoreapp1.1\IntroToWebAPI.runtimeconfig.dev.json
+c:\users\ej54mjh\documents\visual studio 2017\Projects\IntroToWebAPI\IntroToWebAPI\bin\Debug\netcoreapp1.1\IntroToWebAPI.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\IntroToWebAPI\IntroToWebAPI\obj\Debug\netcoreapp1.1\IntroToWebAPI.csprojResolveAssemblyReference.cache
+c:\users\ej54mjh\documents\visual studio 2017\Projects\IntroToWebAPI\IntroToWebAPI\obj\Debug\netcoreapp1.1\IntroToWebAPI.AssemblyInfo.cs
+c:\users\ej54mjh\documents\visual studio 2017\Projects\IntroToWebAPI\IntroToWebAPI\bin\Debug\netcoreapp1.1\IntroToWebAPI.pdb
+c:\users\ej54mjh\documents\visual studio 2017\Projects\IntroToWebAPI\IntroToWebAPI\obj\Debug\netcoreapp1.1\IntroToWebAPI.dll
+c:\users\ej54mjh\documents\visual studio 2017\Projects\IntroToWebAPI\IntroToWebAPI\obj\Debug\netcoreapp1.1\IntroToWebAPI.pdb
